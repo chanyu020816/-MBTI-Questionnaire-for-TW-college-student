@@ -1,0 +1,13 @@
+name: MBTI_quesionnaire
+title: MBTI_quesionnaire
+username:
+account: rreportquestionnaire
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5881438
+bundleId: 5915286
+url: https://rreportquestionnaire.shinyapps.io/MBTI_quesionnaire/
+when: 1652797933.77733
+lastSyncTime: 1652797933.77734
+asMultiple: FALSE
+asStatic: FALSE

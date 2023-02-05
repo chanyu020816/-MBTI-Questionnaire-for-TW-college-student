@@ -1,0 +1,13 @@
+name: school
+title: school
+username:
+account: bigdatareport
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5881388
+bundleId: 5698891
+url: https://rreportquestionnaire.shinyapps.io/school/
+when: 1647600822.59375
+lastSyncTime: 1647600822.59376
+asMultiple: FALSE
+asStatic: FALSE
